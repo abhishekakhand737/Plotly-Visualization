@@ -143,8 +143,6 @@ Contributions are welcome! Fork the repo and improve it.
 **Abhishek Akhand**
 
 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-akhand-391a19277
-💻 GitHub: https://github.com/abhishekakhand737
-
 ---
 
 ## ⭐ Support
